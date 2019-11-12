@@ -25,4 +25,4 @@ Pull requests são bem vindos. Para maiores mudanças abra um issue primeiro par
 Por favor, faça as atualizações apropriadamente! 
 
 ## Liçenca
-[MIT](https://www.gnu.org/licenses/gpl-howto.pt-br.html)
+[GNU](https://www.gnu.org/licenses/gpl-howto.pt-br.html)
