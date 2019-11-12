@@ -1,0 +1,7 @@
+#Ignores do node 
+#
+#Ignore para os diretórios
+node_modules/
+dist/
+#Ignore para os arquivos
+package-lock.json
